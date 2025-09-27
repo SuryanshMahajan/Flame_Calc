@@ -1,2 +1,2 @@
-# Math-Magic
+# Flame_Calc
 Simple Calculator
